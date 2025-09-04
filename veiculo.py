@@ -17,5 +17,3 @@ carro = Veiculo("Fiat", "Uno")
 carro.ligar()
 carro.desligar()
 carro.andar()
-
-
